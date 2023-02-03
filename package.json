@@ -1,9 +1,13 @@
 {
-  "name": "@thundernetworkrad/template-npm-packages",
-  "version": "0.0.1",
-  "description": "A Public Template for npm",
-  "main": "index.js",
-  "repository": "https://github.com/ThunderNetworkRaD/template-npm-packages",
+  "name": "@thundernetworkrad/time",
+  "version": "2023.02.03",
+  "description": "Time Modules for NPM",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "scripts": {
+    "install": "tsc"
+  },
+  "repository": "https://github.com/ThunderNetworkRaD/node-time",
   "author": "ThunderNetworkRaD | Killer Boss Original",
   "license": "Mozilla Public License 2.0",
   "private": false
