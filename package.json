@@ -1,6 +1,6 @@
 {
   "name": "@thundernetworkrad/time",
-  "version": "2023.02.05-2",
+  "version": "2023.02.05-1",
   "description": "Time Modules for NPM",
   "main": "build/index.js",
   "types": "build/index.d.ts",
